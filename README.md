@@ -1,6 +1,6 @@
 # Vrinda-store-Annual-Report
 excel dashboard
-#objective:- Vrinda Store wants to create an annual sales report .so that ,Vrinda can understand their customers and grow more sales.
+# objective:- Vrinda Store wants to create an annual sales report .so that ,Vrinda can understand their customers and grow more sales.
 # steps
 Data Cleaning & Preparation
 Eliminated duplicates
